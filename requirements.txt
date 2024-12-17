@@ -1,0 +1,12 @@
+matplotlib==3.9.3
+numpy==2.2.0
+pandas==2.2.3
+pillow==11.0.0
+requests==2.32.3
+scipy==1.14.1
+tensorboard==2.18.0
+tqdm==4.67.1
+torch==2.5.1
+torchvision==0.20.1
+
+
