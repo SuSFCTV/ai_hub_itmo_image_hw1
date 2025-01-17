@@ -21,5 +21,6 @@ Loss val:
 ![img.png](docs/3.png)
 
 # Результаты работы модели на тесте
+![img.png](docs/test.png)
 
 
